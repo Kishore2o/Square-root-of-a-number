@@ -24,7 +24,6 @@ RegisterNumber:
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
 
 
 ## Result:
